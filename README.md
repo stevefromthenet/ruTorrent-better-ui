@@ -36,7 +36,12 @@ Quick Start
 
 	`$mv stevefromthenet-ruTorrent-better-ui-*/css/style.css css`
 
-	`$mv stevefromthenet-ruTorrent-better-ui-dc956f0/index.html`
+	`$mv stevefromthenet-ruTorrent-better-ui-*/index.html .`
+
+Bugs
+----
+
+Twitter: [@stevefromthenet](https://twitter.com/#!/stevefromthenet)
 
 
 
